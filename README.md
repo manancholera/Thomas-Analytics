@@ -1,2 +1,18 @@
 # Thomas-Analytics
 A data visualization and dashboard bank designed to provide insights to existing clients and prospective customers of ThomasNet and eventually monetize the Thomas Net data.
+
+Thomas network was one of the first to begin making a directory for manufacturers in the US. Almost all the information about manufacturers is still available online but what Thomas net did is kind of a one-stop-shop for our suppliers and manufacturers where they can find all the information about their sector, their competition to eventually have growth in sales by making all the right choices and eventually grow their businesses.
+
+WebTrax by Thomas net is usually used in the research phase by the salespeople to have a positive and lasting relationship with their clients. With Thomas Analytics, we aim to do the same thing. An interactive dashboard with insights about the trends in Thomas net data along with the economic trends would aid the user make a decision about their business, whether joining/staying with Thomasnet would actually help the business turn a profit, whether an online presence is what the business needs and what is more important for the businesses, impactful digital marketing campaigns or turning a profit. 
+
+We believe an interactive dashboard would give Thomas net an edge over their competition by showing visitor information, conversion rate of most popular supplier industries and the economic factors that shape the manufacturing sector.
+
+Cost of raw materials, quality, variety of products, shipments, new order trends etc., can be some of the important requirements for a user. For a user, based on their requirements, making the best decision is preliminary. Even in our everyday lives, we want what is best for us and we usually resort to comparison to filter out the best from the rest. The same is applicable to users who visit Thomas Net. By looking at the trends in the economic factors, they can compare their requirements and make the best decision for them. The essence of Thomas Net is that you get everything in one place. Same goes for Thomas Analytics. It will be helpful to find all these economic trends in one place and eventually drive the business decisions.
+
+Our goal is that the existing users consider being part of Thomas Analytics, which would be a cheaper alternative to WebTrax. Now WebTrax provides visitor information, with reporting on the number of views, clicks and leads on the listing. Thomas Analytics would be a very strong addition to WebTrax, visualizing visitor behavior, insights about the trends in economy concerning the manufacturing sector and eventually helping the users and prospective clients in understanding the state of the economy and get a general idea about visitor behavior on Thomas Net.
+
+We find that the most popular supplier industry on Thomas Net is the manufacturing sector. In order to provide insights regarding the trends in the Texas economy concerning the manufacturing sector, we display various trends in the economic factors that have a lasting effect on the economy and are of grave importance to the suppliers, manufacturers, investors and other potentially interested parties.
+
+**Scope**: As the data provided by Thomas Net is regarding TX imports and exports, we decided to use TX manufacturing survey data to generate economic insights. 
+
+**About**: The Dallas Federal Reserve Bank conducts the Texas Manufacturing Outlook Survey monthly to obtain a timely assessment of state’s factory activity. Firms are asked whether output, employment, orders, prices and other indicators increased, decreased or remained unchanged over the previous month.
